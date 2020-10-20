@@ -1,4 +1,17 @@
 
+
+.carousel{
+    background: #535151;
+    margin-top: 0px;
+}
+.carousel-item{
+    text-align: center;
+    min-height: 220px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+
+
+
+
 hr.style-seven {
     overflow: visible; /* For IE */
     height: 30px;
