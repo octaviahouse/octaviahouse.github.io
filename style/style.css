@@ -1,14 +1,13 @@
 
 
 .carousel{
-    background: #535151;
+    background-image: linear-gradient(rgba(163, 163, 163, 0.822),rgba(201, 233, 233, 0.418));
     margin-top: 0px;
 }
 .carousel-item{
     text-align: center;
     min-height: 220px; /* Prevent carousel from being distorted if for some reason image doesn't load */
 }
-
 
 
 
@@ -71,7 +70,11 @@ color:rgb(1, 18, 22);
 padding-top: 5px;
 padding-bottom: 5px;
 margin-bottom: 0px;
+/*background-image: linear-gradient(rgb(224, 218, 218),rgba(122, 121, 121, 0.5));*/
 }
+
+
+
 
 
 .imagem {
